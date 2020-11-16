@@ -33,6 +33,5 @@ dist/
 .metadata
 
 *.png
-*.yml
 *.lprof
 
